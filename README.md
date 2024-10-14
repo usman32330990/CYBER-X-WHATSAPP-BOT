@@ -28,7 +28,7 @@
 
 .[https://vajirapairmd-77bc6f8caf84.herokuapp.com/pair)
 
-.[https://cyberxpairmd-77bc6f8caf84.herokuapp.com/pair].
+.[https://darkalpha-77bc6f8caf84.herokuapp.com/pair].
 
 
 1. Scan PAIR - [Click here]([](https://vajirapairmd-77bc6f8caf84.herokuapp.com/pair)
