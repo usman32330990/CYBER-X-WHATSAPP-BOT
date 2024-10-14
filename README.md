@@ -27,7 +27,7 @@
 https://cyberxpairmd-77bc6f8caf84.herokuapp.com/pair
 
 
-1. Scan QR - [Click here](https://cyber-x-qr-scanner.osc-fr1.scalingo.io/)
+1. Scan QR - [Click here]([https://cyber-x-qr-scanner.osc-fr1.scalingo.io/](https://cyberxpairmd-77bc6f8caf84.herokuapp.com/pair))
 
 2. Fork the Repo - [Click here](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT/fork)
 
