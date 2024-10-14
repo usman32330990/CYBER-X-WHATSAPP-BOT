@@ -24,9 +24,9 @@
 
 ## Cyber X Paring Codeo
 
-<p align="left">
+(p align="left")
 <a href="https://apparent-meta-secktor-07ceb9dc.koyeb.app/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-green?style=for-the-badge&logo=render"></a>
-<p/>
+(p/)
 
 
 1. Scan PAIR - [Click here]([](https://vajirapairmd-77bc6f8caf84.herokuapp.com/pair)
