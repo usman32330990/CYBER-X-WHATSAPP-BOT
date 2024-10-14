@@ -24,10 +24,14 @@
 
 ## Cyber X Paring Codeo
 
-https://cyberxpairmd-77bc6f8caf84.herokuapp.com/pair
+## pair code
+
+.[https://vajirapairmd-77bc6f8caf84.herokuapp.com/pair)
+
+.[https://cyberxpairmd-77bc6f8caf84.herokuapp.com/pair].
 
 
-1. Scan PAIR - [Click here]([](https://vajirapairmd-77bc6f8caf84.herokuapp.com/pair))
+1. Scan PAIR - [Click here]([](https://vajirapairmd-77bc6f8caf84.herokuapp.com/pair)
 
 2. Fork the Repo - [Click here](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT/fork)
 
